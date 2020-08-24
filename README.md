@@ -48,48 +48,48 @@ ZFT平台内置了加密通讯功能，使用公私钥原理构建高效、可�
 
 # ZFT Data Rights Wallet
 
-Blockchain solves the long-existing centralized design of human society, and provides the decentralized idea of ​​blockchain technology and distributed accounting technology. However, there are still many problems in various fields at this stage, and ZFT has proposed its own solutions. ZFT is the underlying logic provider of blockchain social and content scene consumption. The goal is to create a “high-quality social community + content consumption” blockchain ecosystem. In summary: ZFT adopts the POSD consensus main chain, combined with the inherently high-performance DAG network as the side chain, and adopts the multi-layer architecture of CPS, and is committed to building a safe, decentralized, and highly concurrent social ecosystem. In the future, ZFT will provide this ecosystem with a number of structural underlying technologies based on blockchain and artificial intelligence, inviting many community builders to join them, and can selectively or fully share the block social services provided by ZFT. This ecosystem is a social content sharing platform that integrates users and content consumption.
+Blockchain technology is now widely used as a solution to problems caused by the centralized social and economic structure of human society. Blockchain has introduced the idea of decentralization and distributed ledger which are proven to be more suitable than the traditional centralized approach of current society in many cases. However, there are still many problems in various fields at this stage. Therefore, ZFT has proposed its solution.
+
+ZFT is the underlying logic provider for decentralized social information and content consumption. The goal is to create a "social community + content consumption" blockchain ecosystem. To conclude, ZFT adopts the POSD consensus main chain, combined with the high-performance DAG network as a side chain, adopting the multi-layer architecture, dedicated to building a secure, decentralized, and highly concurrency-friendly social network ecosystem.
+
+In the future, ZFT will continue adding new blockchain or AI-based components to the ecosystem and inviting more community builders to join, play a role, or to work together as a partner. This ecosystem is a blockchain-based social content sharing platform that integrates users and content consumption.
 <br>
 
-<b>Project introduction></b><br>
+<b>Project Introduction></b><br>
 
 <i><b>· Professional technical team</b></i><br>
-We have a professional technical team to escort us, and there are successful cases. It is very important who we cooperate with. We are not good but can only cooperate with good teams to make ourselves good. <br>
+Working with the right people and team with successful stories is important, especially in a developing technological industry.<br>
 
-<i><b>· There are many beliefs</b></i><br>
-ZFT has a group of loyal fans/believers involved. Only by reaching a consensus can we do a good job and become stronger and bigger, and even the best projects cannot be done without a large number of consensus groups. <br>
+<i><b>· Big Group of Believer</b></i><br>
+ZFT has a group of loyal believers. The value of a cryptocurrency highly depends on the power of consensus within the community. Even the world’s best tech project cannot be done well without the consensus of a large groups.<br>
 
-<i><b>· Strict control panel</b></i><br>
-The system truly embodies the essence of finance with a small and big one, excludes speculators from investing large sums of money, gives ordinary people the opportunity to invest in petty capital, allows the public to participate, and increases nodes. <br>
+<i><b>· Strict Control</b></i><br>
+The system truly embodies the essence of financing with small capital and high leverage, excluding speculators from monopolizing the system, providing ordinary people the opportunity to invest and participate, therefore increasing the nodes.<br>
 <br>
 
-<b>Features of ZFT></b><br>
+<b>Characcteristics of ZFT></b><br>
 
-· Your own money has the final say, deposit and withdraw at any time. There is no limit on amount and time. <br>
-· Decentralized exchange, no central server, no security issues such as running off the road, shutting down the network, etc., as long as the Internet is in the ZFT digital rights pass. <br>
-· Open source code, background data is open globally, no one has the right to modify it. There is no situation where the data is changed such as the fund plate change system. <br>
-· There is no bonus system, that is, your money is not divided by anyone, and we are not making money from friends' deposits. <br>
+· You have the say to your asset, you can buy and sell any amount at any time. <br>
+· Decentralized exchange without a central server.<br>
+· Open source code, all the data is transparent and untamperable. Once its written on the blockchain, it stays forever.<br>
+· No extra bonus is given out, all investment are used to purchase token, participants do not profit from investment capital, but gain profit from the appreciation of ZFT alone.<br>
 <br>
 
 <b>About ZFT platform></b><br>
 
-Singapore Digital Rights Alliance, the founder Lin (Lin Qiran) initiated the creation on August 18, 2018. The participating alliance members come from the United States, Japan, Singapore, China, Hong Kong, Malaysia, Italy and more than 30 countries, including blockchain experts. Entrepreneurs, Internet giants, etc., jointly develop the ZFT (Payment) digital rights wallet, and jointly create an international payment system, an international blockchain trading system, and the longest stable digital rights platform, so that all participants have the best entrepreneurial platform!
+Singapore Data Rights Alliance, the founder Lin Qiran(林启然) initiated the establishment of the alliance on 18th August 2018. The members of the alliance come from the blockchain experts, entrepreneurs, Internet giants, etc. from more than 30 countries such as the United States, Japan, Singapore, China, Hong Kong, Malaysia, and Italy. ZFT Wallet was developed to achieve international blockchain trading system that has the longest stable data right platform, allowing every participant to have the best entrepreneurial platform; based on our deep understanding of the blockchain revolution and the goal of making a key contribution to the global blockchain business, firmly believe that the creation of ZFT will reshape the global trust mechanism.
 <br><br>
 
-<b>Practical application and platform features of ZFT></b><br>
+<b>Application Scenario and ZFT Platform Features<b><br>
 
-<i><b>Digital currency exchange transaction</b></i><br>
-Users exchange digital currencies through ZFT. Platform parties or other third parties create smart contracts for exchange, and the exchange process is monitored and executed by the contract mechanism, which avoids the risk of default by the participating parties in the transaction process. <br>
+<i><b>Cryptocurrecy Exchange Trasnsactions</b></i><br>
+Users exchange cryptcurrencies through ZFT. Platform parties or other third parties create smart contracts for exchange, and the exchange process is monitored and executed by the contract mechanism, which avoids the risk of default by the participating parties in the transaction process. <br>
 
 <i><b>Big Data Application</b></i><br>
-Big data is the most strategic core capability for smart networks and smart terminals in the future. There are two main aspects of big data applications in the future: one is community ecological big data; the other is quantitative investment support and risk control focusing on individuals. <br>
+Big data is the most strategic core capability for smart networks and smart terminals in the future. There are two main aspects of big data applications in the future: one is  big data on community ecosystem; the other is quantitative investment support and risk control focusing on individuals. <br>
 
 <i><b>Absolutely private messaging application</b></i><br>
 The ZFT platform has a built-in encrypted communication function, and uses the principle of public and private keys to build an efficient, reliable and safe encrypted communication service. The built-in encrypted communication function of ZFT will provide absolute privacy communication services for encrypted digital users. <br>
 
 <i><b>Digital asset custody</b></i><br>
 As more and more users hold digital assets around the world, the demand for custody of digital assets is emerging in the market. ZFT Digital Asset Exchange will cooperate with third-party financial institutions to provide third-party pledge loans, financing and currency financing. Digital asset custody services for transactions, over-the-counter transactions and other businesses. <br>
-
-
-
-

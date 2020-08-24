@@ -88,8 +88,8 @@ Users exchange cryptcurrencies through ZFT. Platform parties or other third part
 <i><b>Big Data Application</b></i><br>
 Big data is the most strategic core capability for smart networks and smart terminals in the future. There are two main aspects of big data applications in the future: one is  big data on community ecosystem; the other is quantitative investment support and risk control focusing on individuals. <br>
 
-<i><b>Absolutely private messaging application</b></i><br>
+<i><b>Private Messaging Application</b></i><br>
 The ZFT platform has a built-in encrypted communication function, and uses the principle of public and private keys to build an efficient, reliable and safe encrypted communication service. The built-in encrypted communication function of ZFT will provide absolute privacy communication services for encrypted digital users. <br>
 
-<i><b>Digital asset custody</b></i><br>
+<i><b>Digital Asset Custody</b></i><br>
 As more and more users hold digital assets around the world, the demand for custody of digital assets is emerging in the market. ZFT Digital Asset Exchange will cooperate with third-party financial institutions to provide third-party pledge loans, financing and currency financing. Digital asset custody services for transactions, over-the-counter transactions and other businesses. <br>

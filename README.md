@@ -80,7 +80,7 @@ The system truly embodies the essence of financing with small capital and high l
 Singapore Data Rights Alliance, the founder Lin Qiran(林启然) initiated the establishment of the alliance on 18th August 2018. The members of the alliance come from the blockchain experts, entrepreneurs, Internet giants, etc. from more than 30 countries such as the United States, Japan, Singapore, China, Hong Kong, Malaysia, and Italy. ZFT Wallet was developed to achieve international blockchain trading system that has the longest stable data right platform, allowing every participant to have the best entrepreneurial platform; based on our deep understanding of the blockchain revolution and the goal of making a key contribution to the global blockchain business, firmly believe that the creation of ZFT will reshape the global trust mechanism.
 <br><br>
 
-<b>Application Scenario and ZFT Platform Features<b><br>
+<b>Application Scenario and ZFT Platform Features</b><br>
 
 <i><b>Cryptocurrecy Exchange Trasnsactions</b></i><br>
 Users exchange cryptcurrencies through ZFT. Platform parties or other third parties create smart contracts for exchange, and the exchange process is monitored and executed by the contract mechanism, which avoids the risk of default by the participating parties in the transaction process. <br>
